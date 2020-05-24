@@ -42,7 +42,7 @@ header nav ul li a {font-size: 18px;}
 header nav ul li:hover{padding-top: 5px;}
 
 #home {
-  background: url(img/wazuka.jpeg);
+  background: url(media/wazuka.jpeg);
   background-position:center;
   background-size:cover;
   background-attachment: fixed;
